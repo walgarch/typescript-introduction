@@ -15,7 +15,7 @@ if(x != 100) {
 }
 
 if(x > 100) {
-	console.log(`Condition passed:- x > 100`);
+	console.log(`Condition passed : x > 100`);
 }
 
 if(x >= 100) {
@@ -23,7 +23,7 @@ if(x >= 100) {
 }
 
 if(x < 100) {
-	console.log(`Condition passed:- x < 100`);
+	console.log(`Condition passed : x < 100`);
 }
 
 if(x <= 100) {
